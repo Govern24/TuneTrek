@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34518.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneTrek.Server", "TuneTrek.Server\TuneTrek.Server.csproj", "{EAC73843-104F-4B95-9C86-AE9434FA77B0}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tunetrek.client", "tunetrek.client\tunetrek.client.esproj", "{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC73843-104F-4B95-9C86-AE9434FA77B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC73843-104F-4B95-9C86-AE9434FA77B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC73843-104F-4B95-9C86-AE9434FA77B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC73843-104F-4B95-9C86-AE9434FA77B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81440D7B-A7FD-4042-9A6E-C6CCF9216C3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEE85FA-FD75-4486-9584-DFFA9FAEAD71}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@TuneTrek.Server_HostAddress = http://localhost:5152
+
+GET {{TuneTrek.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
